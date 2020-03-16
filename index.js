@@ -72,8 +72,6 @@ $(function(){
                 $data.select();
                 return false
             }
-
-
         }
         if(a.indexOf("mima")==1){
             if($data.val()===""){
